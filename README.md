@@ -1,2 +1,1 @@
-"# JCQB98" 
-Esta es una prueba para el archivo README
+ESTA ES UNA PRUEBA PRA EL ARCHIVO README
